@@ -1,0 +1,79 @@
+.google_fonts_select_control{
+    border: 2px solid;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    border-color: #ddd;
+}
+.google_fonts_select_control .select2-container {
+  width: 100%;
+}
+.select2-container.select2-container--open{
+  z-index: 500000;
+}
+.customize-control select,
+.select2-container--default .selection .select2-selection--single {
+  border: none;
+  background: #fcfcff;
+  position: relative;
+  border-radius: 0;
+  height: 27px;
+  line-height: 27px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.select2-container--default .selection .select2-selection--multiple {
+  border: none;
+  background: #fcfcff;
+  border-radius: 0;
+  height: 32px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.customize-control select:active,
+.customize-control select:focus{
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.google_fonts_select_control .google-fonts,
+.google_fonts_select_control .weight-style,
+.google_fonts_select_control .subsets-style,
+.google_fonts_select_control .text-transform-style{
+  margin-bottom: 10px;
+}
+
+.row{
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: 10px;
+}
+.row:after{
+  content: '';
+  clear: both;
+  display: table;
+}
+.row [class*=span] {
+    display: block;
+    float: left;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+.row .span6 {
+    width: 50%
+}
+
+.row .span4 {
+    width: 33.33333333333333%
+}
+
+.row .span3 {
+    width: 25%
+}

@@ -1,0 +1,21 @@
+7k�[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:17;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2018-08-21 07:09:00";s:13:"post_date_gmt";s:19:"2018-08-21 07:09:00";s:12:"post_content";s:3243:"[vc_row bg_type="bg_color" bg_override="ex-full" bg_color_value="#000000"][vc_column css=".vc_custom_1535094009258{background-color: #000000 !important;}"][vc_custom_heading text="Contact Us" font_container="tag:h2|font_size:48|text_align:left|color:%23ffffff" use_theme_fonts="yes"][ultimate_spacer height="10"][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="180" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1535094431603{background-color: #000000 !important;}"][vc_column][vc_custom_heading text="Contact Us Today" font_container="tag:h2|font_size:36|text_align:center|color:%23ffffff" use_theme_fonts="yes"][ultimate_spacer height="10"][/vc_column][/vc_row][vc_row][vc_column width="1/3" css=".vc_custom_1535094532472{background-color: #000000 !important;}"][vc_column_text]
+<p style="text-align: center;"><strong>Main Line</strong>
+Call/SMS/WhatsApp: <strong>+65 9374 0111
+</strong>Email: <strong><a href="mailto:enquiry@impossible.sg">enquiry@impossible.sg</a></strong></p>
+[/vc_column_text][vc_empty_space][vc_empty_space height="25px"][/vc_column][vc_column width="1/3"][vc_column_text]
+<p style="text-align: center;"><strong>SkillsFuture Course Related
+</strong>Call/SMS/WhatsApp:<strong> +65 9048 8111
+</strong>Email: <strong><a href="mailto:training@impossible.sg">training@impossible.sg</a>
+</strong>More info: <a title="SkillsFuture Approved Courses in Singapore" href="https://www.impossible.sg/our-courses">https://www.impossible.sg/our-courses</a></p>
+[/vc_column_text][/vc_column][vc_column width="1/3" css=".vc_custom_1535094602596{background-color: #000000 !important;}"][vc_column_text]
+<p style="text-align: center;"><strong>Seminar Room Rental
+</strong>Call/SMS/WhatsApp:<strong> +65 9845 5111
+</strong>Email: <strong><a href="mailto:ron@impossible.sg">ron@impossible.sg</a>
+</strong>More info: <a title="Seminar and Training room Rental in Singapore" href="https://www.impossible.sg/our-services/training-room-rental">https://www.impossible.sg/our-services/training-room-rental</a></p>
+[/vc_column_text][/vc_column][/vc_row][vc_row content_placement="middle"][vc_column width="1/3"][vc_column_text]
+<h2>Visit Us</h2>
+<strong>Our Office:</strong>
+14B Yan Kit Road,
+Singapore 088266
+(Beside Tanjong Pagar Community Centre,
+2 minutes walk from Tanjong Pagar MRT station)[/vc_column_text][/vc_column][vc_column width="1/3"][contact-form-7 id="182"][/vc_column][vc_column width="1/3"][vc_raw_html]JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDM5ODguODI4MTcxNDM1MjU0MyUyMTJkMTAzLjgzOTg4OTcxMzg0NDMlMjEzZDEuMjc2NDk4NDk5MDY4OTY1NiUyMTJtMyUyMTFmMCUyMTJmMCUyMTNmMCUyMTNtMiUyMTFpMTAyNCUyMTJpNzY4JTIxNGYxMy4xJTIxM20zJTIxMW0yJTIxMXMweDMxZGExOTZjZjRkZTVmN2IlMjUzQTB4YjYxMmU2MjY4ZmY0MjM3YiUyMTJzMTQlMkJZYW4lMkJLaXQlMkJSZCUyNTJDJTJCU2luZ2Fwb3JlJTJCMDg4MjY2JTIxNWUwJTIxM20yJTIxMXNlbiUyMTJzaWQlMjE0djE1MzUwOTU2Mjk5MDglMjIlMjB3aWR0aCUzRCUyMjYwMCUyMiUyMGhlaWdodCUzRCUyMjQ1MCUyMiUyMGZyYW1lYm9yZGVyJTNEJTIyMCUyMiUyMHN0eWxlJTNEJTIyYm9yZGVyJTNBMCUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQyUyRmlmcmFtZSUzRQ==[/vc_raw_html][/vc_column][/vc_row]";s:10:"post_title";s:10:"Contact Us";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"contact-us";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-08-24 07:29:28";s:17:"post_modified_gmt";s:19:"2018-08-24 07:29:28";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"http://localhost/impossible/?page_id=17";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

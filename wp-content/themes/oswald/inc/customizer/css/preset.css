@@ -1,0 +1,32 @@
+.customize-control-oswald-preset label {
+  position: relative;
+  display: inline-block;
+  margin: 0 5px 5px 0;
+}
+
+.customize-control-oswald-preset img {
+  border: 1px solid #f1f1f1;
+}
+
+.customize-control-oswald-preset .preset-item.active  img {
+  -webkit-box-shadow: 0 0 3px 1px rgba(195, 195, 195, 0.5);
+  box-shadow: 0 0 3px 1px rgba(195, 195, 195, 0.5);
+  border: 1px solid transparent;
+}
+
+.customize-control-oswald-preset .preset-item .image-clickable {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.customize-control-oswald-preset .preset-item{
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+}
